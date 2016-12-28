@@ -1,0 +1,42 @@
+{
+  "name": "gulp-compodoc",
+  "version": "0.0.1",
+  "description": "Compodoc plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vogloblinsky@github.com/compodoc/gulp-compodoc.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "angular2",
+    "angular",
+    "documentation",
+    "components",
+    "module",
+    "graph",
+    "dependencies",
+    "markdown"
+  ],
+  "author": "Vindent Ogloblinsky (vincent.ogloblinsky@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compodoc/gulp-compodoc/issues"
+  },
+  "homepage": "https://github.com/compodoc/gulp-compodoc#readme",
+  "engines": {
+    "node": ">=5.10.0"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1",
+    "compodoc": "^0.0.24"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
