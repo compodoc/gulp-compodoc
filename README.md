@@ -13,20 +13,20 @@
 <p align="center">The missing documentation tool for your Angular application</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/groupe-sii/compodoc/master/screenshots/main-view.png" alt="Compodoc: The missing documentation tool for your Angular application">
+  <img src="https://raw.githubusercontent.com/compodoc/compodoc/master/screenshots/main-view.png" alt="Compodoc: The missing documentation tool for your Angular application">
 </p>
 
 ## Install
 
 ```
-$ npm install --save-dev gulp-compodoc
+$ npm install --save-dev @compodoc/gulp-compodoc
 ```
 
 ## Usage
 
 ```js
 const gulp = require('gulp'),
-    compodoc= require('gulp-compodoc');
+    compodoc= require('@compodoc/gulp-compodoc');
 
 gulp.task('default', () => {
 	return gulp.src('src/**/*.ts')
