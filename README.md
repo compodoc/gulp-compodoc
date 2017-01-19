@@ -19,14 +19,14 @@
 ## Install
 
 ```
-$ npm install --save-dev gulp-compodoc
+$ npm install --save-dev @compodoc/gulp-compodoc
 ```
 
 ## Usage
 
 ```js
 const gulp = require('gulp'),
-    compodoc= require('gulp-compodoc');
+    compodoc= require('@compodoc/gulp-compodoc');
 
 gulp.task('default', () => {
 	return gulp.src('src/**/*.ts')
