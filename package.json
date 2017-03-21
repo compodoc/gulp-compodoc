@@ -1,6 +1,6 @@
 {
   "name": "@compodoc/gulp-compodoc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Compodoc plugin for gulp",
   "main": "index.js",
   "scripts": {
