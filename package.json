@@ -32,9 +32,10 @@
     "node": ">=5.10.0"
   },
   "dependencies": {
+    "compodoc": "^0.0.41",
+    "event-stream": "^3.3.4",
     "gulp-util": "^3.0.7",
-    "through2": "^2.0.1",
-    "compodoc": "^0.0.41"
+    "through2": "^2.0.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
