@@ -3,7 +3,7 @@ const gutil = require('gulp-util'),
       PluginError = gutil.PluginError,
       es = require('event-stream'),
       through = require('through2'),
-      compodocModule = require('compodoc'),
+      compodocModule = require('@compodoc/compodoc'),
       PLUGIN_NAME = 'gulp-compodoc';
 
 function compodoc(options) {
