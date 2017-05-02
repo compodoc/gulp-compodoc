@@ -1,3 +1,10 @@
+<a name="0.0.6"></a>
+## 0.0.6 (2017-05-02)
+
+### Bug Fixes
+
+* **dependencies:** fix(dep): call new scope of compodoc ([3c9804d](https://github.com/compodoc/gulp-compodoc/commit/3c9804d)), closes [#2](https://github.com/compodoc/gulp-compodoc/issues/2)
+
 <a name="0.0.5"></a>
 ## 0.0.5 (2017-04-28)
 
