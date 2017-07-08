@@ -29,6 +29,10 @@ function compodoc(options) {
             app.setFiles(files);
             app.generate();
 
+            process.on('exit', function() {
+                stream.emit('end');
+            });
+
 			return;
 		}
 	});
