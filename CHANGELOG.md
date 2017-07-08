@@ -1,3 +1,10 @@
+<a name="0.0.7"></a>
+## 0.0.7 (2017-07-08)
+
+### Bug Fixes
+
+* **chore:** don't stop stream ([bc6820c](https://github.com/compodoc/gulp-compodoc/commit/bc6820c)), closes [#4](https://github.com/compodoc/gulp-compodoc/issues/4)
+
 <a name="0.0.6"></a>
 ## 0.0.6 (2017-05-02)
 
