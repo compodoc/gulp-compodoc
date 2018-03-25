@@ -1,6 +1,5 @@
 'use strict';
-const gutil = require('gulp-util'),
-    PluginError = gutil.PluginError,
+const PluginError = require('plugin-error'),
     es = require('event-stream'),
     through = require('through2'),
     compodocModule = require('@compodoc/compodoc'),
