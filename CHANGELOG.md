@@ -1,48 +1,58 @@
-<a name="0.0.9"></a>
+<a name="0.0.10"></a>
 
-## 0.0.9 (2018-03-25)
+# [0.0.10](https://github.com/compodoc/gulp-compodoc/compare/0.0.9...0.0.10) (2018-11-28)
 
 ### Bug Fixes
 
-*   **chore:** remove gulp-util ([1c05576c47bf7b68aa254f79fda12ea8e4098fbb](https://github.com/compodoc/gulp-compodoc/commit/1c05576c47bf7b68aa254f79fda12ea8e4098fbb)), thanks [Kevin Engle](https://github.com/Dog)
+-   **event-stream:** security issue ([44e9a065](https://github.com/compodoc/gulp-compodoc/commit/44e9a065)), closes [#8](https://github.com/compodoc/gulp-compodoc/issues/8)
+
+<a name="0.0.9"></a>
+
+## [0.0.8](https://github.com/compodoc/gulp-compodoc/compare/0.0.8...0.0.9) (2018-03-25)
+
+### Bug Fixes
+
+-   **chore:** remove gulp-util ([1c05576c47bf7b68aa254f79fda12ea8e4098fbb](https://github.com/compodoc/gulp-compodoc/commit/1c05576c47bf7b68aa254f79fda12ea8e4098fbb)), thanks [Kevin Engle](https://github.com/Dog)
 
 <a name="0.0.8"></a>
 
-## 0.0.8 (2017-10-31)
+## [0.0.8](https://github.com/compodoc/gulp-compodoc/compare/0.0.7...0.0.8) (2017-10-31)
 
 ### Bug Fixes
 
-*   **chore:** don't stop stream ([4d74a147](https://github.com/compodoc/gulp-compodoc/commit/4d74a147)), closes [#4](https://github.com/compodoc/gulp-compodoc/issues/4)
+-   **chore:** don't stop stream ([4d74a147](https://github.com/compodoc/gulp-compodoc/commit/4d74a147)), closes [#4](https://github.com/compodoc/gulp-compodoc/issues/4)
 
 <a name="0.0.7"></a>
 
-## 0.0.7 (2017-07-08)
+<a name="0.0.8"></a>
+
+## [0.0.7](https://github.com/compodoc/gulp-compodoc/compare/0.0.6...0.0.7) (2017-07-08)
 
 ### Bug Fixes
 
-*   **chore:** don't stop stream ([bc6820c](https://github.com/compodoc/gulp-compodoc/commit/bc6820c)), closes [#4](https://github.com/compodoc/gulp-compodoc/issues/4)
+-   **chore:** don't stop stream ([bc6820c](https://github.com/compodoc/gulp-compodoc/commit/bc6820c)), closes [#4](https://github.com/compodoc/gulp-compodoc/issues/4)
 
 <a name="0.0.6"></a>
 
-## 0.0.6 (2017-05-02)
+## [0.0.6](https://github.com/compodoc/gulp-compodoc/compare/0.0.5...0.0.6) (2017-05-02)
 
 ### Bug Fixes
 
-*   **dependencies:** fix(dep): call new scope of compodoc ([3c9804d](https://github.com/compodoc/gulp-compodoc/commit/3c9804d)), closes [#2](https://github.com/compodoc/gulp-compodoc/issues/2)
+-   **dependencies:** fix(dep): call new scope of compodoc ([3c9804d](https://github.com/compodoc/gulp-compodoc/commit/3c9804d)), closes [#2](https://github.com/compodoc/gulp-compodoc/issues/2)
 
 <a name="0.0.5"></a>
 
-## 0.0.5 (2017-04-28)
+## [0.0.5](https://github.com/compodoc/gulp-compodoc/compare/0.0.4...0.0.5) (2017-04-28)
 
 Move to @compodoc/compodoc
 
 <a name="0.0.4"></a>
 
-## 0.0.4 (2017-03-21)
+## [0.0.4](https://github.com/compodoc/gulp-compodoc/compare/0.0.3...0.0.4) (2017-03-21)
 
 ### Bug fixes
 
-*   event-stream dependency
+-   event-stream dependency
 
 <a name="0.0.1"></a>
 
