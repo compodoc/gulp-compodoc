@@ -1,0 +1,13 @@
+os:
+    - linux
+language: node_js
+node_js:
+    - '9'
+install:
+    - npm install npm@latest -g
+    - npm ci
+script:
+    - npm run test
+branches:
+    only:
+        - develop
