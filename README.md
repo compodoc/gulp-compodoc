@@ -1,4 +1,5 @@
 # gulp-compodoc
+
 [Compodoc](https://github.com/compodoc/compodoc) plugin for gulp
 
 <p align="center">
@@ -26,18 +27,18 @@ $ npm install --save-dev @compodoc/gulp-compodoc
 
 ```js
 const gulp = require('gulp'),
-    compodoc= require('@compodoc/gulp-compodoc');
+    compodoc = require('@compodoc/gulp-compodoc');
 
 gulp.task('default', () => {
-	return gulp.src('src/**/*.ts')
-		.pipe(compodoc({
+    return gulp.src('src/**/*.ts').pipe(
+        compodoc({
             output: 'documentation',
             tsconfig: 'src/tsconfig.json',
             serve: true
-        }))
-);
+        })
+    );
+});
 ```
-
 
 ## API
 
