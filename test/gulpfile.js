@@ -1,5 +1,5 @@
 const gulp = require('gulp'),
-    compodoc = require('@compodoc/gulp-compodoc');
+    compodoc = require('../');
 
 gulp.task('default', () => {
     return gulp.src('nest-app/src/**/*.ts')
